@@ -1,4 +1,4 @@
-function f(x: number): number{
+function Double_factorial(x: number): number{
     let y: number = 1
     if(x > 0){
         let k: number = x
